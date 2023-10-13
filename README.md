@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishneet Kaur Chadha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=ecf05e47dtpgxuvru8yqimhvylin94ryw9mmhbfbn39m7fsq&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishneet42&label=Profile%20views&color=0e75b6&style=flat" alt="ishneet42" /> </p>
