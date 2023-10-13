@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 💬 Ask me about **JavaScript, DSA**
+- 💬 Ask me about **Machine Learning, Django development**
 
 - 📫 How to reach me **ishneetkaurchadha@gmail.com**
 
