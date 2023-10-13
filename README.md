@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ishneetkaurchadha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17kVvpT8K-I73KH5gfKfTxqPU_pmCScZ3/view?usp=drive_link](https://drive.google.com/file/d/17kVvpT8K-I73KH5gfKfTxqPU_pmCScZ3/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hWotdrjId2zCs5QsNueqrjDhNScgqnWH/view?usp=sharing](https://drive.google.com/file/d/1hWotdrjId2zCs5QsNueqrjDhNScgqnWH/view?usp=sharing)
 
 - ⚡ Fun fact **I love cats and would be delighted if you send me cute cat pictures🐈**
 
