@@ -4,15 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishneet42&label=Profile%20views&color=0e75b6&style=flat" alt="ishneet42" /> </p>
 
-- 🔭 I’m currently working on **my portfolio website**
-
-- 💬 Ask me about **Machine Learning, Django development**
-
 - 📫 How to reach me **ishneetkaurchadha@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hWotdrjId2zCs5QsNueqrjDhNScgqnWH/view?usp=sharing](https://drive.google.com/file/d/1hWotdrjId2zCs5QsNueqrjDhNScgqnWH/view?usp=sharing)
-
-- ⚡ Fun fact **I love cats and would be delighted if you send me cute cat pictures🐈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
