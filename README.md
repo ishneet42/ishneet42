@@ -1,20 +1,44 @@
-<h1 align="center">Hi 👋, I'm Ishneet Kaur Chadha</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=ecf05e47dtpgxuvru8yqimhvylin94ryw9mmhbfbn39m7fsq&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+# Ishneet
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishneet42&label=Profile%20views&color=0e75b6&style=flat" alt="ishneet42" /> </p>
+I am a graduate student in Computer Science with interests spanning machine learning, distributed systems, and data-intensive infrastructure. My work focuses on building reliable, scalable systems informed by empirical evaluation and research-driven design.
 
-- 📫 How to reach me **ishneetkaurchadha@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ishneet_chadha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishneet_chadha_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishneet-kaur-chadha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishneet kaur chadha" height="30" width="40" /></a>
-</p>
+## Research & Technical Interests
+- Machine learning and deep learning (NLP, multimodal systems)
+- Distributed and stream processing systems
+- Cloud-native system design and deployment
+- Data-driven experimentation and evaluation
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishneet42&show_icons=true&locale=en&layout=compact" alt="ishneet42" /></p>
+## Selected Projects
+- **Distributed Stream Processing Engine**  
+  Designed a Flink-inspired system featuring task scheduling, state management, and fault tolerance.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishneet42&" alt="ishneet42" /></p>
+- **EEG-Based Cognitive State Analysis**  
+  Built deep learning pipelines for time-series brain signal classification using CNN-based architectures.
+
+- **Text-to-SQL for Healthcare Data**  
+  Evaluated open-source language models for structured query generation; published IEEE work.
+
+---
+
+## Technical Skills
+**Languages:** Python, Java, C/C++, JavaScript, SQL
+**Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
+**Systems & Backend:** Docker, Kubernetes, FastAPI, Spring Boot, Kafka, Spark  
+**Cloud & Infrastructure:** Google Cloud Platform, Linux, CI/CD  
+
+---
+
+## Approach
+I prioritize clarity, correctness, and measurable impact. I value systems that are interpretable, scalable, and well-evaluated, and I enjoy collaborating on technically rigorous problems.
+
+---
+
+## Links
+- Portfolio: https://ishneet42.github.io  
+- GitHub: https://github.com/ishneet42
+- linkedin: https://www.linkedin.com/in/ishneet-kaur-chadha/ 
+
