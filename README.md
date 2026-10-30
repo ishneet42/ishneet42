@@ -12,7 +12,6 @@ Systems that stay correct and fast at scale: stream processing, storage, paralle
 
 ## Experience
 - **Software Engineering Intern, Fetch.ai Innovation Lab** (Summer 2026)
-  Built **GitHub Cartographer**, a framework-aware static analysis tool. Builds call graphs across 500+ file repos (1,800+ functions) in under 3 seconds, synthesizes message-dispatch edges that standard AST analysis misses, and ships a drill-down graph UI with LLM narration. Merged to the production monorepo.
 - **Research Assistant, CU Boulder**
 - **Teaching Assistant, CSCI 1300 / 2270** (C++, memory management, data structures)
 
