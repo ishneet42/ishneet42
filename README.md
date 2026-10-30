@@ -1,44 +1,31 @@
-# Ishneet
+# Hi, I'm Ishneet (Ishi) 👋
 
-I am a graduate student in Computer Science with interests spanning machine learning, distributed systems, and data-intensive infrastructure. My work focuses on building reliable, scalable systems informed by empirical evaluation and research-driven design.
+**M.S. Computer Science @ CU Boulder, graduating May 2027.**
+graduating May 2027. I work on backend, distributed systems, infrastructure, and HPC.
 
----
-
-## Research & Technical Interests
-- Machine learning and deep learning (NLP, multimodal systems)
-- Distributed and stream processing systems
-- Cloud-native system design and deployment
-- Data-driven experimentation and evaluation
+📫 isch1256@colorado.edu · [Portfolio](https://ishneet42.github.io) · [LinkedIn](https://www.linkedin.com/in/ishneet-kaur-chadha/)
 
 ---
 
-## Selected Projects
-- **Distributed Stream Processing Engine**  
-  Designed a Flink-inspired system featuring task scheduling, state management, and fault tolerance.
+## What I build
+Systems that stay correct and fast at scale: stream processing, storage, parallel pipelines on HPC clusters, and developer tooling. Primary languages are **C++, Java, and Python**.
 
-- **EEG-Based Cognitive State Analysis**  
-  Built deep learning pipelines for time-series brain signal classification using CNN-based architectures.
+## Experience
+- **Software Engineering Intern, Fetch.ai Innovation Lab** (Summer 2026)
+  Built **GitHub Cartographer**, a framework-aware static analysis tool. Builds call graphs across 500+ file repos (1,800+ functions) in under 3 seconds, synthesizes message-dispatch edges that standard AST analysis misses, and ships a drill-down graph UI with LLM narration. Merged to the production monorepo.
+- **Research Assistant, CU Boulder**
+- **Teaching Assistant, CSCI 1300 / 2270** (C++, memory management, data structures)
 
-- **Text-to-SQL for Healthcare Data**  
-  Evaluated open-source language models for structured query generation; published IEEE work.
+**Languages:** C/C++, Java, Python, SQL, JavaScript/TypeScript
+**Systems:** Kafka, Spark, RocksDB, Docker, Kubernetes, SLURM, Linux
+**HPC:** CUDA, OpenMP (coursework + CuPy)
+**Backend/Web:** FastAPI, Flask, Spring Boot, Next.js, React
+**ML:** PyTorch, TensorFlow, Hugging Face, scikit-learn
+**Cloud:** AWS, GCP, CI/CD
 
----
-
-## Technical Skills
-**Languages:** Python, Java, C/C++, JavaScript, SQL
-**Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
-**Systems & Backend:** Docker, Kubernetes, FastAPI, Spring Boot, Kafka, Spark  
-**Cloud & Infrastructure:** Google Cloud Platform, Linux, CI/CD  
-
----
-
-## Approach
-I prioritize clarity, correctness, and measurable impact. I value systems that are interpretable, scalable, and well-evaluated, and I enjoy collaborating on technically rigorous problems.
+## Also
+- Technical Director, Women in Computing @ CU Boulder
+- Vice Chair, CS Graduate Professional Development Committee
 
 ---
-
-## Links
-- Portfolio: https://ishneet42.github.io  
-- GitHub: https://github.com/ishneet42
-- linkedin: https://www.linkedin.com/in/ishneet-kaur-chadha/ 
-
+*Open to new-grad SWE roles for 2027. If your team works on infra, storage, or distributed systems, I'd love to talk.*
